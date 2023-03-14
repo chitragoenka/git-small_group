@@ -6,3 +6,6 @@ The "commit" command is used to save your changes to the local repository.
 
 #git status
 The git status command shows changes in the repository
+
+#git add 
+This command saves changes
