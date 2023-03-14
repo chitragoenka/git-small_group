@@ -4,3 +4,4 @@ file description
 new description
 new line
 ok
+git status: compares changes
