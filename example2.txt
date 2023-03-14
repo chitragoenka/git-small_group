@@ -1,2 +1,2 @@
-hello
-New description
+# git commit
+The "commit" command is used to save your changes to the local repository. 
